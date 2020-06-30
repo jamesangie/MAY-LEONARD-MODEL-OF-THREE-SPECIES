@@ -1,0 +1,2 @@
+# MAY-LEONARD-MODEL-OF-THREE-SPECIES
+In natural ecosystems, species often compete for limited resources including food, water, and space. Often, when one competing population succeeds over the others, it will eventually be outcompeted by one of the others. This leads to oscillations between all competing populations due to the cyclic dependence on one another. In this project my team and I researched and studied to find a model that accurately describes the relationship between the three different species. 
